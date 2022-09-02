@@ -13,3 +13,5 @@ You can build Docker images in two ways.
 * Using CodePipeline and CodeBuild
     * You can select GitHub branch.
     * For more information, see [CODEPIPELINE.md](./CODEPIPELINE.md).
+    
+ -- Thierry's lab
